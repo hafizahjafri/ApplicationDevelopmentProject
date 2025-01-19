@@ -1,15 +1,37 @@
-# UTM Gatherly 🧑🏻‍🎓
+# UTM Gatherly
 
-A website to manage events and clubs at UTM ✨
+## Description
+The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen my understanding of network security, attack patterns, and defensive strategies.
 
-## Getting Started
+## Objective
+The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen my understanding of network security, attack patterns, and defensive strategies.
 
-We created a website to help UTM students easily find clubs and events on campus. This project simplifies the process of exploring, organizing, and participating in UTM activities.
+### Languages and Utilities Used
 
-This website is built using:
-- A little template from [FullCalendar](https://fullcalendar.io/) for event management.
-- [Bootstrap](https://getbootstrap.com/) for styling and layout.
+- PHP
+- HTML
+- SQL
+- Javascript
 
-For further customization or to learn more about these tools, you can explore their documentation:
-- [FullCalendar Documentation](https://fullcalendar.io/docs)
-- [Bootstrap Documentation](https://getbootstrap.com/docs)
+### Tools Used
+
+- Vs Code for coding
+- Xampp to create and store the database
+
+### Skills Learned
+[Bullet Points - Remove this afterwards]
+
+- Advanced understanding of SIEM concepts and practical application.
+- Proficiency in analyzing and interpreting network logs.
+- Ability to generate and recognize attack signatures and patterns.
+- Enhanced knowledge of network protocols and security vulnerabilities.
+- Development of critical thinking and problem-solving skills in cybersecurity.
+
+## Program walk-through
+drag & drop screenshots here or use imgur and reference them using imgsrc
+
+Every screenshot should have some text explaining what the screenshot is about.
+
+Example below.
+
+*Ref 1: Network Diagram*
